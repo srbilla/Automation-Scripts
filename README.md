@@ -1,2 +1,2 @@
-# Automation-Scripts
-You can add your own scripts that automate any actions or you can use already existed scripts for make your life easier.
+# Automation Scripts
+This repository was created with the hope that people will share their useful scripts to automate routine work. If the scripts from this repository were useful for you, then please star and watch it to know when the new scripts will come.
